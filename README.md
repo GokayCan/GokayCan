@@ -1,5 +1,5 @@
 # Hi there, I'm Gokay
-<br>
+<br><br>
 [![website](./img/twitter-light.svg)](https://twitter.com/GkycanKurtoglu#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/GkycanKurtoglu#gh-dark-mode-only)
 &nbsp;&nbsp;
