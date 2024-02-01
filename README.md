@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋🏼 Hello! I'm a full stack web developer. <br>👉🏼 I'm into ASP.NET API and Angular 👌🏼, and I also dabble with Django and React. 🤏🏼<br>👉🏼 My passion for software and technology is boundless. <br>👉🏼 I'm always exploring and discovering new things, constantly evolving. <br> 📫 How to reach me **gokaycan_kurtoglu@hotmail.com**
+# Hello there! 👋🏼
+
+I'm a full stack web developer with an insatiable passion for software and technology. Constantly exploring and evolving, here's a bit about me:
+
+- 💻 I'm mastering ASP.NET API and Angular.
+- 🌟 I dabble with technologies like Django and React.
+- 🚀 I enjoy keeping up with the latest trends in the software world.
+- 📫 You can reach me at: **gokaycan_kurtoglu@hotmail.com**
 
 
 ## 🌐 Socials:
