@@ -3,6 +3,7 @@ body {
     background-color: #f5f5f5;
     margin: 0;
     padding: 0;
+    text-align: center; /* Sayfanın yatay olarak ortalanması */
 }
 
 .container {
@@ -12,6 +13,9 @@ body {
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Sayfanın dikey olarak ortalanması */
 }
 
 h1, h2 {
