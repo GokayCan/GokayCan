@@ -106,13 +106,13 @@
         <h2>GitHub Stats:</h2>
         <div class="github-stats">
             <!-- GitHub Stats -->
-            <img src="https://github-readme-stats.vercel.app/api?username=GokayCan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+            <img src="https://github-readme-stats.vercel.app/api?username=gokaycan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
                 alt="GitHub Stats">
             <br>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokayCan&theme=tokyonight&hide_border=true"
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokaycan&theme=tokyonight&hide_border=true"
                 alt="GitHub Streak Stats">
             <br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokayCan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokaycan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
                 alt="Top Languages">
         </div>
     </div>
