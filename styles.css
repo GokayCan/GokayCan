@@ -46,3 +46,8 @@ ul li {
 .tech-stack img, .github-stats img {
     margin-bottom: 10px;
 }
+
+.github-stats img {
+    width: 50%;
+    height: auto;
+}
