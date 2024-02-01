@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=GokayCan&icon=0&color=6)](https://visitcount.itsvg.in)
 # Hello there! 👋🏼
 
 I'm a full stack web developer with an insatiable passion for software and technology. Constantly exploring and evolving, here's a bit about me:
@@ -55,7 +56,5 @@ I'm a full stack web developer with an insatiable passion for software and techn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GokayCan&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokayCan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=GokayCan&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
