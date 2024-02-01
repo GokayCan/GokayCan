@@ -74,7 +74,6 @@
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
                     alt="JavaScript">
             </div>
-
             <!-- Databases -->
             <div class="databases">
                 <h3>Databases:</h3>
@@ -87,7 +86,6 @@
                 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
                     alt="MongoDB">
             </div>
-
             <!-- Tools and Utilities -->
             <div class="utilities">
                 <h3>Tools and Utilities:</h3>
@@ -105,7 +103,6 @@
                     alt="Notion">
             </div>
         </div>
-
         <h2>GitHub Stats:</h2>
         <div class="github-stats">
             <!-- GitHub Stats -->
@@ -119,7 +116,6 @@
                 alt="Top Languages">
         </div>
     </div>
-
 </body>
 
 </html>
