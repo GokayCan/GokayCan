@@ -40,6 +40,7 @@
                 alt="ASP.NET">
             <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
                 alt="Django">
+            <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
         </div>
         <!-- Frontend Frameworks -->
         <div class="frameworks">
