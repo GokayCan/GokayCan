@@ -73,6 +73,6 @@
 
 ### 📝 Medium
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
