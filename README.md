@@ -69,4 +69,8 @@
 
 <img src="https://raw.githubusercontent.com/GokayCan/GokayCan/output/snake.svg" alt="Snake animation" />
 
+<p align="left">
+<a href="https://medium.com/@gokaycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokaycan" height="30" width="40" /></a>
+</p>
+
 ###
