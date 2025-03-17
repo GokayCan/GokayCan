@@ -1,0 +1,35 @@
+name: Latest Medium Posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Her 6 saatte bir çalışır
+  workflow_dispatch:
+
+jobs:
+  update-medium-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and clean Medium RSS
+        id: fetch_rss
+        run: |
+          node -e "
+          const fetch = require('node-fetch');
+          (async () => {
+            const url = 'https://medium.com/feed/@gokaycan';
+            const response = await fetch(url);
+            let text = await response.text();
+            if (text.charCodeAt(0) === 0xFEFF) {
+              text = text.slice(1);
+            }
+            console.log('::set-output name=rss_content::' + text.replace(/\r?\n|\r/g, ''));
+          })();
+          "
+
+      - name: Update README with latest posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "${{ steps.fetch_rss.outputs.rss_content }}"
+          max_post_count: 3
+          template: "- [$title]($url)"
