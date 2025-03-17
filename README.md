@@ -71,7 +71,7 @@
 
 ###
 
-### 📝 Son Medium Yazılarım
+### 📝 Medium
 
 <!-- BLOG-POST-LIST:START -->- [If you want to be a .net developer you have to know these](https://gokaycan.medium.com/if-you-want-to-be-a-net-developer-you-have-to-know-these-67552a011ec5?source=rss-572fbe750ea4------2)<!-- BLOG-POST-LIST:END -->
 
