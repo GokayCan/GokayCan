@@ -2,16 +2,18 @@ name: Update Medium Posts
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
-  medium-posts:
+  update-medium-posts:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yurijserrano/Github-Medium-Post-Fetcher@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          medium_user: 'gokaycan'
-          readme_path: './README.md'
-          max_posts: 3
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@GokayCan"
+          max_post_count: 3
+          template: |
+            [![$title]($thumbnail)]($url)  
+            [$title]($url)
