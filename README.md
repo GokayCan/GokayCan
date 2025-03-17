@@ -71,5 +71,8 @@
 
 ###
 
-[![My Medium story](@codescaptain&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@gokaycan&index=1&source=medium)](#)
-[![My Medium story](@codescaptain&index=0)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@gokaycan&index=0&source=medium)](#)
+### 📝 Son Yazılarım
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
