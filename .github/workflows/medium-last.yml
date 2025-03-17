@@ -1,19 +1,17 @@
-name: Latest Medium Posts with Images
+name: Update Medium Posts
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # 12 saatte bir güncelle
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  update-medium-posts:
+  medium-posts:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: yurijserrano/Github-Medium-Post-Fetcher@main
         with:
-          feed_list: "https://medium.com/feed/@GokayCan"
-          max_post_count: 3
-          template: |
-            [![$title]($thumbnail)]($url)  
-            [$title]($url)
+          medium_user: 'gokaycan'
+          readme_path: './README.md'
+          max_posts: 3
