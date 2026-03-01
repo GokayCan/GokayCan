@@ -1,8 +1,14 @@
-<p align="left">I'm a full-stack developer who loves creating software and exploring new technologies.<br><br>💻 I mainly work with ASP.NET API and Angular.<br>🚀 I'm always curious about the latest trends in tech.<br>📫 Reach me at: gokaycan_kurtoglu@hotmail.com</p>
+<p align="left">
+  I am a Full Stack Developer focused on delivering high-quality, scalable web applications. I thrive on solving complex problems and continuously evolving my technical skill set. Here is a bit about my current focus:<br><br>
+  💻 Architecting strong backend solutions using the .NET ecosystem (C#, ASP.NET, SQL).<br>
+  🚀 Building dynamic and responsive user interfaces with Angular.<br>
+  🌐 Exploring modern software engineering practices and keeping up with the latest industry trends.<br><br>
+  📫 Reach me at: gokaycan_kurtoglu@hotmail.com
+</p>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GokayCan.GokayCan&right_color=teal"  />
+<img align="right" src="https://komarev.com/ghpvc/?username=GokayCan&color=teal&style=flat" alt="visitor badge" />
 
 ###
 
@@ -61,13 +67,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokayCan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokayCan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GokayCan&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokayCan&layout=compact&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/GokayCan/GokayCan/output/snake.svg" alt="Snake animation" />
-
-###
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GokayCan/GokayCan/output/snake.svg" alt="Snake animation" />
+</div>
