@@ -8,7 +8,8 @@
 
 ###
 
-<img align="right" src="https://komarev.com/ghpvc/?username=GokayCan&color=teal&style=flat" alt="visitor badge" />
+<img align="right" src="https://komarev.com/ghpvc/?username=GokayCan&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
+
 
 ###
 
@@ -62,13 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="nginx logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokayCan&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokayCan&layout=compact&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
